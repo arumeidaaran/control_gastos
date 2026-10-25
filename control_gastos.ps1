@@ -1,6 +1,6 @@
 # La ruta raiz del proyecto
 $RootDirectory = Resolve-Path -Path $PSScriptRoot
-# $RootDirectory = Resolve-Path -Path '//desktop-u676phi/E/projects/users/arumeidaaran/programmingLanguages/POWERSHELL/control_gastos'
+
 # La ruta de los scripts de Powershell
 $ModulesDirectory = "$RootDirectory/source"
 
